@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Griszhou/codeweaver/actions"><img src="https://img.shields.io/github/actions/workflow/status/Griszhou/codeweaver/ci.yml?style=flat-square&label=CI" alt="CI"></a>
+  <a href="https://github.com/Griszhou/semantic-nav-agent/actions"><img src="https://img.shields.io/github/actions/workflow/status/Griszhou/semantic-nav-agent/ci.yml?style=flat-square&label=CI" alt="CI"></a>
   <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=flat-square" alt="C++17">
   <img src="https://img.shields.io/badge/ROS2-adapter-22314E?style=flat-square" alt="ROS2 adapter">
   <img src="https://img.shields.io/badge/license-MIT-76B900?style=flat-square" alt="MIT license">
