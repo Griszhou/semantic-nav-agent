@@ -1,0 +1,5 @@
+{
+  "instruction": "Find the red chair and then the blue box",
+  "map": {"width": 24, "height": 20, "resolution_m": 0.5},
+  "metrics": ["success", "path_length", "spl", "replanning_ms", "explored_frontiers"]
+}

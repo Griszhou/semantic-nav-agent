@@ -1,0 +1,11 @@
+/build/
+__pycache__/
+*.py[cod]
+.cache/
+.vscode/
+.idea/
+*.log
+*.db
+*.bag
+*.sqlite
+compile_commands.json

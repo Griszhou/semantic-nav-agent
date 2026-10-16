@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280">
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#08121f"/><stop offset="1" stop-color="#123d59"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs>
+  <rect width="1200" height="280" rx="22" fill="url(#bg)"/>
+  <g opacity=".18" stroke="#9be7ff"><path d="M30 55h1140M30 110h1140M30 165h1140M30 220h1140M90 20v235M180 20v235M270 20v235M360 20v235M450 20v235M540 20v235M630 20v235M720 20v235M810 20v235M900 20v235M990 20v235M1080 20v235"/></g>
+  <path d="M88 212 L185 212 L260 168 L354 168 L426 106 L560 106 L647 58 L782 58 L871 121 L1004 121 L1112 72" fill="none" stroke="url(#a)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#5eead4"><circle cx="88" cy="212" r="10"/><circle cx="260" cy="168" r="10"/><circle cx="426" cy="106" r="10"/><circle cx="647" cy="58" r="10"/><circle cx="871" cy="121" r="10"/><circle cx="1112" cy="72" r="10"/></g>
+  <g fill="#e5f7ff" font-family="Segoe UI,Arial,sans-serif"><text x="55" y="45" font-size="16" letter-spacing="4" fill="#8bd5ff">SEMANTIC NAV AGENT</text><text x="55" y="93" font-size="42" font-weight="700">Language-guided autonomy</text><text x="57" y="132" font-size="18" fill="#b8d4e2">C++17 · ROS2/Nav2 boundary · Semantic map · Frontier exploration</text><text x="55" y="250" font-size="15" fill="#8bd5ff">OBSERVE  →  REASON  →  PLAN  →  ACT  →  RECOVER</text></g>
+</svg>
