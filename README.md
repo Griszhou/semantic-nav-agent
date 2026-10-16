@@ -12,7 +12,7 @@
 <p align="center"><b>基于 LLM Agent 与语义地图的移动机器人自主导航系统</b></p>
 <p align="center">把自然语言任务转换成「理解目标 → 语义检索 → 主动探索 → A* 规划 → Nav2 执行 → 任务级恢复」的可观测闭环。</p>
 
-> 这是一个可运行的工程原型。仓库内的 deterministic replay 不依赖 GPU、ROS2 或在线 LLM，便于面试官一键编译验证；ROS2/Nav2/Gazebo/LangGraph/YOLO/OpenCV 的接入边界以 adapter 和文档形式保留。README 中不把 replay 数字当作真实机器人实验结论。
+> 项目采用分层实现：核心规划与任务状态机保持标准库依赖，ROS2/Nav2/Gazebo/LangGraph/YOLO/OpenCV 通过独立 adapter 接入。仓库提供 deterministic replay 用于离线回归和接口验证；其中的指标用于检查算法流程，不代表特定机器人平台上的实验结论。
 
 ## 30 秒运行
 
